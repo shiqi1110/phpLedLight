@@ -3,11 +3,11 @@
     │   ├── admin（后台）
     │   ├── assets(静态)
     │   │   ├── admin 后台
-     |     |    |    |── image
-     |     |    |    |── lib
-     |     |    |   └── styleshetts
-     |     |   ├── home 首页
-     |     |   ├── page 页面
+    |     |    |    |── image
+    |     |    |    |── lib
+    |     |    |   └── styleshetts
+    |     |   ├── home 首页
+    |     |   ├── page 页面
     │   │   └── validform
     │   ├── database(数据库)
     │   ├── includes（PHP引入）
